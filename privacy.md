@@ -45,4 +45,4 @@ Questions about this policy: **[quasarcode13@gmail.com](mailto:quasarcode13@gmai
 
 ---
 
-© 2026 RainLab · [Support](./)
+© 2026 JWG AI UG · [Support](./)

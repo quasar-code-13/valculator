@@ -2,7 +2,7 @@
 
 **Looks like a calculator. Opens your private vault.**
 
-Valculator is a working calculator with an encrypted vault behind it for the photos, videos, files and notes you'd rather keep to yourself. On your Home Screen it's simply called "Calculator". No account, no servers, no tracking, no ads.
+Valculator is a working calculator with an encrypted vault behind it for the photos, videos, files and notes you'd rather keep to yourself. On your Home Screen it's simply called "Calculator+". No account, no servers, no tracking, no ads.
 
 Requires iOS 26 or later. [Privacy Policy](privacy)
 
@@ -46,7 +46,7 @@ Everything in Valculator is free. The free version imports until your vault hold
 - **Unlimited imports.** Bring in as many photos, videos and files as you like.
 - **Extra app icons.** Light and Green, as well as Classic.
 
-Pro is tied to your Apple Account. On a new phone, open Settings → *Calculator Pro* → *Restore Purchases*. Family Sharing is supported.
+Pro is tied to your Apple Account. On a new phone, open Settings → *Calculator+ Pro* → *Restore Purchases*. Family Sharing is supported.
 
 ---
 
@@ -56,4 +56,4 @@ Questions, bug reports or feature ideas? Email **[quasarcode13@gmail.com](mailto
 
 ---
 
-© 2026 RainLab · [Privacy Policy](privacy)
+© 2026 JWG AI UG · [Privacy Policy](privacy)
